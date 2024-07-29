@@ -8,10 +8,6 @@ A simple weather application built with React that provides current weather info
 - Background changes based on the local time of the city (day or night)
 - Displays temperature and weather description
 
-## Screenshots
-
-![Daytime Screenshot](path/to/daytime-screenshot.png)
-![Nighttime Screenshot](path/to/nighttime-screenshot.png)
 
 ## Technologies Used
 
